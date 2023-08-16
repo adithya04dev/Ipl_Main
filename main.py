@@ -17,4 +17,4 @@ st.write('Compare batters by phases,bowling types')
 
 st.markdown("[Bowlers Comparison](https://iplbowlerscomparision.streamlit.app/)")
 
-st.write('Compare bowlers by phases,bowling types')
+st.write('Compare bowlers by phases,batting types')
