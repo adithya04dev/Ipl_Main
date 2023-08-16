@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 16 10:43:16 2023
 
-@author: adith
-"""
 
 import streamlit as st 
 
