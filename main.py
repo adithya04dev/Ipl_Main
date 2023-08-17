@@ -18,6 +18,20 @@ st.write('Compare batters by phases,bowling types')
 st.markdown("[Bowlers Comparison](https://iplbowlerscomparision.streamlit.app/)")
 
 st.write('Compare bowlers by phases,batting types')
+st.markdown("[Teams Batting Comparison](https://iplteamsbattingcomp.streamlit.app/)")
+st.write('Compare Teams Batting by phases,bowling types')
+
+st.markdown("[Teams Bowling Comparison](https://iplteamsbowlingcomp.streamlit.app/)")
+
+st.write('Compare Teams Bowling by phases,batting types')
+
+
+st.markdown("[Teams Batting Stats(Individual)](https://iplteamsbatting.streamlit.app/)")
+st.write('Analyse Teams Batting stats by phases,bowling types')
+
+st.markdown("[Teams Bowling (Individual)](https://iplteamsbowling.streamlit.app/)")
+st.write('Analyse Teams Bowling  stats by phases,bowling types')
+
 
 
 
