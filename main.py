@@ -36,9 +36,9 @@ st.write('Analyse Teams Bowling  stats by phases,bowling types')
 
 
 
-st.write("For feedback/Suggestions for new stats tool:")
-st.write("[Feedback and Ideas Form](https://docs.google.com/forms/d/15bH9s8CPYV6iunU5VuZRuq1gtQ3ShBJ4jQ9L5qsHeqE/edit)")
 
+st.write("[Feedback and Ideas Form](https://docs.google.com/forms/d/15bH9s8CPYV6iunU5VuZRuq1gtQ3ShBJ4jQ9L5qsHeqE/edit)")
+st.write("For feedback/Suggestions for new stats tool:")
 
 
 
